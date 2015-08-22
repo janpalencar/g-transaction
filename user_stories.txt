@@ -1,0 +1,9 @@
+A1      1. Aplikacia bude pridavat ludi s uctami
+        2. Aplikacia umozni urobit cyklus s peniazmi (nahodne vygenerovane transakcie a zprocesuje ich)
+A4      3. Aplikacia umozni nahodne rozdat peniaze existujucim uctom z nekonecneho uctu
+A2      4. Aplikacia dokaze odoberat ludi s uctami
+A3      5. Aplikacia dokaze pri generovani dohliadnut na to aby nevygenerovala 2x rovnake mena
+        6. APlikacia dokaze ukazat zoznam transakcii
+        7. Aplikacia umozni rozposlat nahodne mnozstvo penazi prerozdelenim existujucim aktivnym uctom
+        8. Uzivatel ma moznost rozposlat peniaze aktivneho uctu nahodne vsetkym ostatnym uzivatelom
+        9. Uzivatel moze poslat peniaze inemu uzivatelovi.
